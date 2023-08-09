@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'speda';
+    src: local('speda'), url('./assets/fonts/NotoNaskhArabic-Regular.ttf') format('opentype');
+  }

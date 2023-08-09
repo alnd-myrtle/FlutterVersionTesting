@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "speda";
+  src: local("speda"),
+    url("./assets/fonts/NotoNaskhArabic-Regular.ttf") format("opentype");
+}
+
+html {
+  font-family: "speda";
+}
+
+body {
+  font-family: "speda";
+}
+
+input {
+  direction: ltr;
+}
